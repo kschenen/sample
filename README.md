@@ -1,3 +1,3 @@
 # sample
 
-setup github stuff
+setup github stuff with help
